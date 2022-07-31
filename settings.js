@@ -37,9 +37,9 @@ global.pemilik = ['212661809542'] //Change  it , ඔබට කැමති න�
 global.premium = ['212661809542'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.botnma = '💃 لقمان لمࢪاڪشي💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.ownernma = 'لقمان لمࢪاڪشي هه' //ownernama,ownername
+global.packname = 'لقمان لمࢪاڪشي'😻 // Sticker package name 
+global.author = 'لمࢪاڪشين هࢪبانين عليڪم😻' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐋𝐎9𝐌𝐀𝐍𝐄 𝐊𝐄𝐂𝐇
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
